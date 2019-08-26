@@ -670,3 +670,5 @@ const Anime4K = {
     return new Scaler(gl)
   }
 }
+
+if (module) { module.exports = Anime4K }
