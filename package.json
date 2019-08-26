@@ -1,0 +1,25 @@
+{
+  "name": "anime4k",
+  "version": "1.0.0",
+  "description": "Millisecond anime upscaling.",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobooru/anime4k.git"
+  },
+  "keywords": [
+    "Anime",
+    "upscaling",
+    "upscale",
+    "shader"
+  ],
+  "author": "Hampus Lundqvist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mobooru/anime4k/issues"
+  },
+  "homepage": "https://github.com/mobooru/anime4k#readme"
+}
