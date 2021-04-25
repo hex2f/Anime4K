@@ -30,7 +30,7 @@ const inputImg = new Image()
 // When the image has loaded, scale it.
 inputImg.onLoad = function() {
   scaler.inputImage(inputImg)
-  scaler.resize(2.0) // 2x scale
+  scaler.resize(2.0, {}) // 2x scale
 }
 
 // Load the image
