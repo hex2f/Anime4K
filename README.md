@@ -22,7 +22,7 @@ const canvas = document.createElement('canvas')
 document.body.appendChild(canvas)
 
 // Create the scaler
-const scaler = Anime4K.Scaler(canvas.getConext('webgl'))
+const scaler = Anime4K.Scaler(canvas.getContext('webgl'))
 
 // Create an image to scale
 const inputImg = new Image()
